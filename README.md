@@ -1,2 +1,17 @@
-# React-Challenge-React-Portfolio
-A portfolio website made purely using the cutting edge technologies of React. As well as open source libraries such as "React-mdl" to stylize the page.
+# [YouTube Tutorial](https://www.youtube.com/playlist?list=PL3KAvm6JMiowqFTXj3oPQkhP7aCgRHFTm)
+I created a Youtube code along tutorial for this project. Click the link above to view!
+
+# react-portfolio-starter
+A React based personal portfolio app using create-react-app and React Router v4.
+
+# Tools
+* create-react-app cli
+* React MDL material design
+* React Router v4
+
+# Start App
+Clone repo, install, cd into folder and run:
+```git
+npm install
+npm start
+```
